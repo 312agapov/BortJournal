@@ -1,4 +1,4 @@
-package org.example;
+package org.bortJournalApp;
 
 public class Balls {
 
